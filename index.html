@@ -1538,7 +1538,7 @@ function renderDetail() {
 
   // Editable inputs
   const fields = [
-    ['pe','P/E'], ['hist_pe','Hist P/E (10y avg, read-only)'], ['pe_terminal','Terminal P/E (blank = use Hist)'],
+    ['pe', r.pe_asof ? `P/E (as of ${r.pe_asof})` : 'P/E'], ['hist_pe','Hist P/E (10y avg, read-only)'], ['pe_terminal','Terminal P/E (blank = use Hist)'],
     ['c','c (FCF/NI)'], ['gdp','Real GDP %'], ['inflation','Inflation %'],
     ['beta_gdp','β GDP'], ['lt_eps','LT EPS %'], ['roe','ROE %'], ['payout','Payout %'],
     ['fx_user','FX Override % (blank = parity)'], ['cad_curr','CAD %'], ['fin','Fin Weight %']
@@ -1692,7 +1692,9 @@ async function bootstrap() {
       if (r.fx_user === undefined) r.fx_user = null;
     });
     state.rows = data;
-    document.getElementById('front-meta').textContent = `${data.length} ETFs · click any row for detail`;
+    const peDates = data.map(r => r.pe_asof).filter(Boolean).sort();
+    const peNote = peDates.length ? ` · P/E as of ${peDates[0]}` : '';
+    document.getElementById('front-meta').textContent = `${data.length} ETFs${peNote} · click any row for detail`;
     buildDetailSelect();
     renderAll();
   } catch (e) {

@@ -64,6 +64,18 @@ The function returns both `m6_pct` (6-month % change, drives arrow signal) and `
 
 Numerical commodity impacts on returns remain zeroed; the panel drives only the qualitative Commodity Impact arrow per country.
 
+## P/E auto-update
+
+`pe` in `data.json` is refreshed from Yahoo Finance (`trailingPE`, via yfinance) by
+`.github/workflows/update-pe.yml`, Mon–Fri 22:17 UTC, or on demand from the Actions tab
+("Run workflow"). The job runs `scripts/update_pe.py`, commits `data.json` if anything
+changed, and Vercel redeploys. Each refreshed row gets `pe_asof` and `pe_source`.
+
+- `hist_pe` is never touched.
+- A ticker keeps its previous P/E if Yahoo returns nothing, a value outside 2–80, or a
+  move >40% vs the stored value (re-run with **force** to accept a large move).
+- Run locally: `pip install yfinance && python scripts/update_pe.py --dry-run`
+
 ## Run locally
 
 ```bash
