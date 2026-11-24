@@ -18,9 +18,11 @@
     "cad_n5y": -3.59,
     "lt_eps": 14.81,
     "beta_gdp": 2.0,
-    "pe": 25.57,
+    "pe": 26.82,
     "hist_pe": 22.65,
-    "com_profile": "NEUTRAL"
+    "com_profile": "NEUTRAL",
+    "pe_asof": "2026-11-24",
+    "pe_source": "yahoo:trailingPE"
   },
   {
     "ticker": "SPY",
@@ -41,9 +43,11 @@
     "cad_n5y": -3.59,
     "lt_eps": 12.78,
     "beta_gdp": 1.4,
-    "pe": 20.98,
+    "pe": 22.98,
     "hist_pe": 18.47,
-    "com_profile": "NEUTRAL"
+    "com_profile": "NEUTRAL",
+    "pe_asof": "2026-11-24",
+    "pe_source": "yahoo:trailingPE"
   },
   {
     "ticker": "EWC",
@@ -64,9 +68,11 @@
     "cad_n5y": -0.25,
     "lt_eps": 10.29,
     "beta_gdp": 1.0,
-    "pe": 15.91,
+    "pe": 17.54,
     "hist_pe": 14.73,
-    "com_profile": "MILD_EXP"
+    "com_profile": "MILD_EXP",
+    "pe_asof": "2026-11-24",
+    "pe_source": "yahoo:trailingPE"
   },
   {
     "ticker": "EWA",
@@ -87,9 +93,11 @@
     "cad_n5y": -2.33,
     "lt_eps": 4.06,
     "beta_gdp": 1.0,
-    "pe": 17.75,
+    "pe": 18.82,
     "hist_pe": 16.19,
-    "com_profile": "BROAD_EXP"
+    "com_profile": "BROAD_EXP",
+    "pe_asof": "2026-11-24",
+    "pe_source": "yahoo:trailingPE"
   },
   {
     "ticker": "IEV",
@@ -110,9 +118,11 @@
     "cad_n5y": 2.3,
     "lt_eps": 11.46,
     "beta_gdp": 1.0,
-    "pe": 14.36,
+    "pe": 17.15,
     "hist_pe": 14.18,
-    "com_profile": "MILD_IMP"
+    "com_profile": "MILD_IMP",
+    "pe_asof": "2026-11-24",
+    "pe_source": "yahoo:trailingPE"
   },
   {
     "ticker": "EWJ",
@@ -133,9 +143,11 @@
     "cad_n5y": 3.97,
     "lt_eps": 10.78,
     "beta_gdp": 1.0,
-    "pe": 17.09,
+    "pe": 14.16,
     "hist_pe": 14.32,
-    "com_profile": "MILD_IMP"
+    "com_profile": "MILD_IMP",
+    "pe_asof": "2026-11-24",
+    "pe_source": "yahoo:trailingPE"
   },
   {
     "ticker": "EWS",
@@ -156,9 +168,11 @@
     "cad_n5y": 16.41,
     "lt_eps": 4.54,
     "beta_gdp": 1.0,
-    "pe": 15.03,
+    "pe": 17.42,
     "hist_pe": 13.51,
-    "com_profile": "MILD_IMP"
+    "com_profile": "MILD_IMP",
+    "pe_asof": "2026-11-24",
+    "pe_source": "yahoo:trailingPE"
   },
   {
     "ticker": "EIS",
@@ -179,9 +193,11 @@
     "cad_n5y": 2.56,
     "lt_eps": 14.41,
     "beta_gdp": 1.0,
-    "pe": 16.14,
+    "pe": 16.48,
     "hist_pe": 12.15,
-    "com_profile": "MILD_IMP"
+    "com_profile": "MILD_IMP",
+    "pe_asof": "2026-11-24",
+    "pe_source": "yahoo:trailingPE"
   },
   {
     "ticker": "EIDO",
@@ -202,9 +218,11 @@
     "cad_n5y": -0.81,
     "lt_eps": 10.19,
     "beta_gdp": 1.0,
-    "pe": 9.62,
+    "pe": 8.93,
     "hist_pe": 12.58,
-    "com_profile": "BROAD_EXP"
+    "com_profile": "BROAD_EXP",
+    "pe_asof": "2026-11-24",
+    "pe_source": "yahoo:trailingPE"
   },
   {
     "ticker": "EPOL",
@@ -225,9 +243,11 @@
     "cad_n5y": -0.81,
     "lt_eps": 15.14,
     "beta_gdp": 1.0,
-    "pe": 10.67,
+    "pe": 12.83,
     "hist_pe": 9.99,
-    "com_profile": "MILD_IMP"
+    "com_profile": "MILD_IMP",
+    "pe_asof": "2026-11-24",
+    "pe_source": "yahoo:trailingPE"
   },
   {
     "ticker": "EWT",
@@ -248,9 +268,11 @@
     "cad_n5y": 16.65,
     "lt_eps": 17.02,
     "beta_gdp": 1.0,
-    "pe": 21.67,
+    "pe": 23.66,
     "hist_pe": 14.29,
-    "com_profile": "MILD_IMP"
+    "com_profile": "MILD_IMP",
+    "pe_asof": "2026-11-24",
+    "pe_source": "yahoo:trailingPE"
   },
   {
     "ticker": "EWW",
@@ -271,9 +293,11 @@
     "cad_n5y": -0.63,
     "lt_eps": 14.56,
     "beta_gdp": 1.4,
-    "pe": 13.53,
+    "pe": 11.95,
     "hist_pe": 13.95,
-    "com_profile": "MILD_EXP"
+    "com_profile": "MILD_EXP",
+    "pe_asof": "2026-11-24",
+    "pe_source": "yahoo:trailingPE"
   },
   {
     "ticker": "EWY",
@@ -294,9 +318,11 @@
     "cad_n5y": 5.43,
     "lt_eps": 18.09,
     "beta_gdp": 1.0,
-    "pe": 8.13,
+    "pe": 9.24,
     "hist_pe": 9.83,
-    "com_profile": "HEAVY_IMP"
+    "com_profile": "HEAVY_IMP",
+    "pe_asof": "2026-11-24",
+    "pe_source": "yahoo:trailingPE"
   },
   {
     "ticker": "EWZ",
@@ -317,9 +343,11 @@
     "cad_n5y": -2.02,
     "lt_eps": 8.26,
     "beta_gdp": 1.0,
-    "pe": 8.89,
+    "pe": 9.35,
     "hist_pe": 9.45,
-    "com_profile": "BROAD_EXP"
+    "com_profile": "BROAD_EXP",
+    "pe_asof": "2026-11-24",
+    "pe_source": "yahoo:trailingPE"
   },
   {
     "ticker": "EZA",
@@ -340,9 +368,11 @@
     "cad_n5y": -1.67,
     "lt_eps": 11.23,
     "beta_gdp": 1.0,
-    "pe": 8.99,
+    "pe": 10.18,
     "hist_pe": 10.85,
-    "com_profile": "MILD_EXP"
+    "com_profile": "MILD_EXP",
+    "pe_asof": "2026-11-24",
+    "pe_source": "yahoo:trailingPE"
   },
   {
     "ticker": "GREK",
@@ -363,9 +393,11 @@
     "cad_n5y": -4.69,
     "lt_eps": 10.42,
     "beta_gdp": 1.0,
-    "pe": 10.05,
+    "pe": 11.83,
     "hist_pe": 9.35,
-    "com_profile": "MILD_IMP"
+    "com_profile": "MILD_IMP",
+    "pe_asof": "2026-11-24",
+    "pe_source": "yahoo:trailingPE"
   },
   {
     "ticker": "TUR",
@@ -386,9 +418,11 @@
     "cad_n5y": -1.82,
     "lt_eps": 10.0,
     "beta_gdp": 1.0,
-    "pe": 8.57,
+    "pe": 11.79,
     "hist_pe": 6.19,
-    "com_profile": "HEAVY_IMP"
+    "com_profile": "HEAVY_IMP",
+    "pe_asof": "2026-11-24",
+    "pe_source": "yahoo:trailingPE"
   },
   {
     "ticker": "THD",
@@ -409,9 +443,11 @@
     "cad_n5y": 2.16,
     "lt_eps": 5.54,
     "beta_gdp": 1.0,
-    "pe": 16.6,
+    "pe": 13.56,
     "hist_pe": 13.68,
-    "com_profile": "HEAVY_IMP"
+    "com_profile": "HEAVY_IMP",
+    "pe_asof": "2026-11-24",
+    "pe_source": "yahoo:trailingPE"
   },
   {
     "ticker": "ECH",
@@ -432,9 +468,11 @@
     "cad_n5y": -2.06,
     "lt_eps": 18.82,
     "beta_gdp": 1.0,
-    "pe": 12.18,
+    "pe": 12.22,
     "hist_pe": 12.85,
-    "com_profile": "BROAD_EXP"
+    "com_profile": "BROAD_EXP",
+    "pe_asof": "2026-11-24",
+    "pe_source": "yahoo:trailingPE"
   },
   {
     "ticker": "EMXC",
@@ -455,9 +493,11 @@
     "cad_n5y": 0.67,
     "lt_eps": 16.13,
     "beta_gdp": 1.0,
-    "pe": 12.07,
+    "pe": 14.48,
     "hist_pe": 12.15,
-    "com_profile": "NEUTRAL"
+    "com_profile": "NEUTRAL",
+    "pe_asof": "2026-11-24",
+    "pe_source": "yahoo:trailingPE"
   },
   {
     "ticker": "MCHI",
@@ -478,9 +518,11 @@
     "cad_n5y": 2.98,
     "lt_eps": 13.54,
     "beta_gdp": 1.0,
-    "pe": 11.92,
+    "pe": 10.63,
     "hist_pe": 11.49,
-    "com_profile": "NEUTRAL"
+    "com_profile": "NEUTRAL",
+    "pe_asof": "2026-11-24",
+    "pe_source": "yahoo:trailingPE"
   },
   {
     "ticker": "INDA",
@@ -501,8 +543,10 @@
     "cad_n5y": -1.64,
     "lt_eps": 17.86,
     "beta_gdp": 1.0,
-    "pe": 21.25,
+    "pe": 23.36,
     "hist_pe": 19.87,
-    "com_profile": "HEAVY_IMP"
+    "com_profile": "HEAVY_IMP",
+    "pe_asof": "2026-11-24",
+    "pe_source": "yahoo:trailingPE"
   }
 ]
