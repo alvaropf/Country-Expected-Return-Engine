@@ -18,10 +18,10 @@
     "cad_n5y": -3.59,
     "lt_eps": 14.81,
     "beta_gdp": 2.0,
-    "pe": 26.82,
+    "pe": 26.28,
     "hist_pe": 22.65,
     "com_profile": "NEUTRAL",
-    "pe_asof": "2026-11-24",
+    "pe_asof": "2026-11-25",
     "pe_source": "yahoo:trailingPE"
   },
   {
@@ -43,10 +43,10 @@
     "cad_n5y": -3.59,
     "lt_eps": 12.78,
     "beta_gdp": 1.4,
-    "pe": 22.98,
+    "pe": 22.87,
     "hist_pe": 18.47,
     "com_profile": "NEUTRAL",
-    "pe_asof": "2026-11-24",
+    "pe_asof": "2026-11-25",
     "pe_source": "yahoo:trailingPE"
   },
   {
@@ -68,10 +68,10 @@
     "cad_n5y": -0.25,
     "lt_eps": 10.29,
     "beta_gdp": 1.0,
-    "pe": 17.54,
+    "pe": 17.6,
     "hist_pe": 14.73,
     "com_profile": "MILD_EXP",
-    "pe_asof": "2026-11-24",
+    "pe_asof": "2026-11-25",
     "pe_source": "yahoo:trailingPE"
   },
   {
@@ -93,10 +93,10 @@
     "cad_n5y": -2.33,
     "lt_eps": 4.06,
     "beta_gdp": 1.0,
-    "pe": 18.82,
+    "pe": 18.87,
     "hist_pe": 16.19,
     "com_profile": "BROAD_EXP",
-    "pe_asof": "2026-11-24",
+    "pe_asof": "2026-11-25",
     "pe_source": "yahoo:trailingPE"
   },
   {
@@ -118,10 +118,10 @@
     "cad_n5y": 2.3,
     "lt_eps": 11.46,
     "beta_gdp": 1.0,
-    "pe": 17.15,
+    "pe": 17.2,
     "hist_pe": 14.18,
     "com_profile": "MILD_IMP",
-    "pe_asof": "2026-11-24",
+    "pe_asof": "2026-11-25",
     "pe_source": "yahoo:trailingPE"
   },
   {
@@ -143,10 +143,10 @@
     "cad_n5y": 3.97,
     "lt_eps": 10.78,
     "beta_gdp": 1.0,
-    "pe": 14.16,
+    "pe": 14.12,
     "hist_pe": 14.32,
     "com_profile": "MILD_IMP",
-    "pe_asof": "2026-11-24",
+    "pe_asof": "2026-11-25",
     "pe_source": "yahoo:trailingPE"
   },
   {
@@ -168,10 +168,10 @@
     "cad_n5y": 16.41,
     "lt_eps": 4.54,
     "beta_gdp": 1.0,
-    "pe": 17.42,
+    "pe": 17.23,
     "hist_pe": 13.51,
     "com_profile": "MILD_IMP",
-    "pe_asof": "2026-11-24",
+    "pe_asof": "2026-11-25",
     "pe_source": "yahoo:trailingPE"
   },
   {
@@ -193,10 +193,10 @@
     "cad_n5y": 2.56,
     "lt_eps": 14.41,
     "beta_gdp": 1.0,
-    "pe": 16.48,
+    "pe": 16.24,
     "hist_pe": 12.15,
     "com_profile": "MILD_IMP",
-    "pe_asof": "2026-11-24",
+    "pe_asof": "2026-11-25",
     "pe_source": "yahoo:trailingPE"
   },
   {
@@ -218,10 +218,10 @@
     "cad_n5y": -0.81,
     "lt_eps": 10.19,
     "beta_gdp": 1.0,
-    "pe": 8.93,
+    "pe": 8.92,
     "hist_pe": 12.58,
     "com_profile": "BROAD_EXP",
-    "pe_asof": "2026-11-24",
+    "pe_asof": "2026-11-25",
     "pe_source": "yahoo:trailingPE"
   },
   {
@@ -243,10 +243,10 @@
     "cad_n5y": -0.81,
     "lt_eps": 15.14,
     "beta_gdp": 1.0,
-    "pe": 12.83,
+    "pe": 12.62,
     "hist_pe": 9.99,
     "com_profile": "MILD_IMP",
-    "pe_asof": "2026-11-24",
+    "pe_asof": "2026-11-25",
     "pe_source": "yahoo:trailingPE"
   },
   {
@@ -268,10 +268,10 @@
     "cad_n5y": 16.65,
     "lt_eps": 17.02,
     "beta_gdp": 1.0,
-    "pe": 23.66,
+    "pe": 22.67,
     "hist_pe": 14.29,
     "com_profile": "MILD_IMP",
-    "pe_asof": "2026-11-24",
+    "pe_asof": "2026-11-25",
     "pe_source": "yahoo:trailingPE"
   },
   {
@@ -293,10 +293,10 @@
     "cad_n5y": -0.63,
     "lt_eps": 14.56,
     "beta_gdp": 1.4,
-    "pe": 11.95,
+    "pe": 11.81,
     "hist_pe": 13.95,
     "com_profile": "MILD_EXP",
-    "pe_asof": "2026-11-24",
+    "pe_asof": "2026-11-25",
     "pe_source": "yahoo:trailingPE"
   },
   {
@@ -318,10 +318,10 @@
     "cad_n5y": 5.43,
     "lt_eps": 18.09,
     "beta_gdp": 1.0,
-    "pe": 9.24,
+    "pe": 8.9,
     "hist_pe": 9.83,
     "com_profile": "HEAVY_IMP",
-    "pe_asof": "2026-11-24",
+    "pe_asof": "2026-11-25",
     "pe_source": "yahoo:trailingPE"
   },
   {
@@ -343,10 +343,10 @@
     "cad_n5y": -2.02,
     "lt_eps": 8.26,
     "beta_gdp": 1.0,
-    "pe": 9.35,
+    "pe": 9.37,
     "hist_pe": 9.45,
     "com_profile": "BROAD_EXP",
-    "pe_asof": "2026-11-24",
+    "pe_asof": "2026-11-25",
     "pe_source": "yahoo:trailingPE"
   },
   {
@@ -368,10 +368,10 @@
     "cad_n5y": -1.67,
     "lt_eps": 11.23,
     "beta_gdp": 1.0,
-    "pe": 10.18,
+    "pe": 10.06,
     "hist_pe": 10.85,
     "com_profile": "MILD_EXP",
-    "pe_asof": "2026-11-24",
+    "pe_asof": "2026-11-25",
     "pe_source": "yahoo:trailingPE"
   },
   {
@@ -393,10 +393,10 @@
     "cad_n5y": -4.69,
     "lt_eps": 10.42,
     "beta_gdp": 1.0,
-    "pe": 11.83,
+    "pe": 11.75,
     "hist_pe": 9.35,
     "com_profile": "MILD_IMP",
-    "pe_asof": "2026-11-24",
+    "pe_asof": "2026-11-25",
     "pe_source": "yahoo:trailingPE"
   },
   {
@@ -418,10 +418,10 @@
     "cad_n5y": -1.82,
     "lt_eps": 10.0,
     "beta_gdp": 1.0,
-    "pe": 11.79,
+    "pe": 11.56,
     "hist_pe": 6.19,
     "com_profile": "HEAVY_IMP",
-    "pe_asof": "2026-11-24",
+    "pe_asof": "2026-11-25",
     "pe_source": "yahoo:trailingPE"
   },
   {
@@ -443,10 +443,10 @@
     "cad_n5y": 2.16,
     "lt_eps": 5.54,
     "beta_gdp": 1.0,
-    "pe": 13.56,
+    "pe": 13.4,
     "hist_pe": 13.68,
     "com_profile": "HEAVY_IMP",
-    "pe_asof": "2026-11-24",
+    "pe_asof": "2026-11-25",
     "pe_source": "yahoo:trailingPE"
   },
   {
@@ -468,10 +468,10 @@
     "cad_n5y": -2.06,
     "lt_eps": 18.82,
     "beta_gdp": 1.0,
-    "pe": 12.22,
+    "pe": 11.9,
     "hist_pe": 12.85,
     "com_profile": "BROAD_EXP",
-    "pe_asof": "2026-11-24",
+    "pe_asof": "2026-11-25",
     "pe_source": "yahoo:trailingPE"
   },
   {
@@ -493,10 +493,10 @@
     "cad_n5y": 0.67,
     "lt_eps": 16.13,
     "beta_gdp": 1.0,
-    "pe": 14.48,
+    "pe": 14.2,
     "hist_pe": 12.15,
     "com_profile": "NEUTRAL",
-    "pe_asof": "2026-11-24",
+    "pe_asof": "2026-11-25",
     "pe_source": "yahoo:trailingPE"
   },
   {
@@ -518,10 +518,10 @@
     "cad_n5y": 2.98,
     "lt_eps": 13.54,
     "beta_gdp": 1.0,
-    "pe": 10.63,
+    "pe": 10.53,
     "hist_pe": 11.49,
     "com_profile": "NEUTRAL",
-    "pe_asof": "2026-11-24",
+    "pe_asof": "2026-11-25",
     "pe_source": "yahoo:trailingPE"
   },
   {
@@ -543,10 +543,10 @@
     "cad_n5y": -1.64,
     "lt_eps": 17.86,
     "beta_gdp": 1.0,
-    "pe": 23.36,
+    "pe": 23.63,
     "hist_pe": 19.87,
     "com_profile": "HEAVY_IMP",
-    "pe_asof": "2026-11-24",
+    "pe_asof": "2026-11-25",
     "pe_source": "yahoo:trailingPE"
   }
 ]
